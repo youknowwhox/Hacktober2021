@@ -67,4 +67,3 @@ int main()
 	cout << "Maximum contiguous sum is " << max_sum;
 	return 0;
 }
-
